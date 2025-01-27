@@ -11,15 +11,15 @@ This repository focuses on identifying overlaps between efficient cookstove and 
 ## Project Maps
 ### VCS Africa Region
 ![Africa Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_Africa.png?raw=true)
-*Map showing project overlaps in African regions*
+*Map showing project overlaps between VCS cookstove and VCS Avoided deforestation projects in Africa region*
 
 ### VCS Asia Region
 ![Asia Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_Asia.png?raw=true)
-*Map showing project overlaps in Asian regions*
+*Map showing project overlaps between VCS cookstove and VCS Avoided deforestation projects in Asia region*
 
 ### Central America Region
-
-*Map showing project overlaps in Central American regions*
+![CentralAmerica Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_CentralAmerica.png?raw=true)
+*Map showing project overlaps in VCS cookstove and VCS Avoided deforestation projects in Central America region*
 
 
 ## Tools and Technologies
