@@ -26,3 +26,18 @@ This repository focuses on identifying overlaps between efficient cookstove and 
 * **R**: For geospatial data processing and analysis and  for advanced spatial visualizations
 * **QGIS**: To refine and inspect geospatial data
 * **Coordinate System**: WGS84 (EPSG:4326)
+
+## Data Preparation
+* Download project boundary data from Verra, Gold Standard, or CDM registries
+* Preprocess geospatial data using QGIS to generate KML files if needed
+
+## Outputs
+* Spatial visualizations saved in the /outputs folder
+* CSV files with overlap percentages and statistics
+
+## Citation
+* If you use this repository, kindly cite:
+* Master's Thesis: "Assessing Double Issuance between Avoided Deforestation and Efficient Cookstove Projects: A Geospatial Analysis Approach."
+* Author: Ankita Karki
+* Institution: Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
+* Supervisors: Jonathan Jupke, Isabel Hasse
