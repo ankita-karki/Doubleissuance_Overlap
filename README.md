@@ -9,13 +9,11 @@ This repository focuses on identifying overlaps between efficient cookstove and 
 * **Visualization**: Generate maps showcasing overlapping regions in Africa, Asia, and Central America under VCS, Gold Standard, and CDM programs
 
 ## Project Maps
-### Africa Region
-
-# Using absolute GitHub URL
+### VCS Africa Region
 ![Africa Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_Africa.png?raw=true)
 *Map showing project overlaps in African regions*
 
-### Asia Region
+### VCS Asia Region
 
 *Map showing project overlaps in Asian regions*
 
