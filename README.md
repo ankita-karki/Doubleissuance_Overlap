@@ -12,7 +12,7 @@ This repository focuses on identifying overlaps between efficient cookstove and 
 ### Africa Region
 
 # Using absolute GitHub URL
-![Africa Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/outputmaps/VCS_Africa.png?raw=true)
+![Africa Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_Africa.png?raw=true)
 *Map showing project overlaps in African regions*
 
 ### Asia Region
