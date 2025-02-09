@@ -1,4 +1,4 @@
-# Overlap Analysis
+# Carbon Project Overlap Analysis
 
 ## Overview
 This repository focuses on identifying overlaps between efficient cookstove and avoided deforestation projects in voluntary carbon markets. The goal is to assess the risk of double issuance that undermines carbon market integrity.
