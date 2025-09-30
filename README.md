@@ -33,14 +33,14 @@ Carbon credit markets face a critical integrity challenge: when cookstove projec
 
 ### Buffer analysis in Africa region
 <div align="left">
-  <img src="https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/Africa_Proximity.png?raw=true">
+  <img src="https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/Africa _Proximity.png?raw=true">
 </div>
 
 *Map showing buffer analysis between VCS Efficient Cookstove Projects and VCS Avoided Deforestation (AD) projects in Africa*
 
 ### Buffer analysis in Asia region
 <div align="left">
-  <img src="https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/Asia_Proximity.png?raw=true">
+  <img src="https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/Asia _Proximity.png?raw=true">
 </div>
 
 *Map showing buffer analysis between VCS Efficient Cookstove Projects and VCS Avoided Deforestation (AD) projects in Asia*
