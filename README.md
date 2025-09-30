@@ -1,12 +1,22 @@
 # Mapping Carbon Project Overlaps (Geospatial Analysis)
 
-## Overview
+## 📋 Overview
 This repository focuses on identifying overlaps between efficient cookstove and avoided deforestation projects in voluntary carbon markets. The goal is to assess the risk of double issuance that undermines carbon market integrity.
 
-## Key Features
-* **Geospatial Mapping**: Overlay efficient cookstove and avoided deforestation project boundaries
-* **Intersection Analysis**: Calculate overlap percentages
-* **Visualization**: Generate maps showcasing overlapping regions in Africa, Asia, and Central America under VCS, Gold Standard, and CDM programs
+---
+
+## 🎯 Problem Statement
+Carbon credit markets face a critical integrity challenge: when cookstove projects (which reduce fuelwood consumption) and forest protection projects (which prevent deforestation) operate in the same geographic areas, both may claim credit for the same carbon emission reductions. This "double issuance" inflates claimed climate benefits and erodes trust in carbon markets.
+
+---
+
+## ✨ Key Features
+
+- **Direct Overlap Analysis** – project boundary intersections, % overlap, regional maps  
+- **Proximity Analysis** – 5/10/15 km buffers to account for fuelwood collection distances  
+- **Case Studies** – detailed district-level analysis of 6 VCS cookstove projects  
+
+---
 
 ## Project Maps
 ### VCS Africa Region
